@@ -8,7 +8,7 @@ class AirportsService {
     }
 
     getAll(){
-        //  update this line to sort the aiport name
+        //  update this line to sort the aiport name AB#174
         return this._airports.filter(a => a.code).map(avoidEmptyCity);
     }
 

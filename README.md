@@ -1,7 +1,6 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
-
 # Microsoft.Github CI Demo
+
+[![Build Status](https://dev.azure.com/idcf-boat-house/contoso-air/_apis/build/status/idcf-boat-house.boat-house-contoso-air?branchName=master)](https://dev.azure.com/idcf-boat-house/contoso-air/_build/latest?definitionId=2&branchName=master)
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.

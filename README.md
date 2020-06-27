@@ -2,6 +2,7 @@
 
 [![Build Status](https://dev.azure.com/idcf-boat-house/contoso-air/_apis/build/status/idcf-boat-house.boat-house-contoso-air?branchName=master)](https://dev.azure.com/idcf-boat-house/contoso-air/_build/latest?definitionId=2&branchName=master)
 [![Release Status](https://vsrm.dev.azure.com/idcf-boat-house/_apis/public/Release/badge/9c30cc93-8d27-40f1-91e8-c51f3c73be5a/1/1)](https://dev.azure.com/idcf-boat-house/contoso-air/_release?view=all&_a=releases&definitionId=1)
+[![Board Status](https://dev.azure.com/idcf-boat-house/9c30cc93-8d27-40f1-91e8-c51f3c73be5a/83dfa914-6d24-4f93-8f8e-3c64d2ff5bb0/_apis/work/boardbadge/dc745b74-bf6a-4f52-b55a-75e2408a87bd)](https://dev.azure.com/idcf-boat-house/9c30cc93-8d27-40f1-91e8-c51f3c73be5a/_boards/board/t/83dfa914-6d24-4f93-8f8e-3c64d2ff5bb0/Microsoft.RequirementCategory/)
 
 Demo site: https://githubci-web-leixu.azurewebsites.net/
 
